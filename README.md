@@ -6,9 +6,9 @@
 
 ## Contact the Author  
 
-***Special thanks*** :pray: for the instruction and advice from  
+***Special thanks*** :pray: for the joint efforts from my fellow
 
-*[Dr. Fan Zhang (张帆)](http://www.mit.edu/~f_zhang/) (Watson Core Platform Service IBM Massachusetts Labratory)*  
+*[Rao Keyi](CST1709315@xmu.edu.my)  
 
 
 If you got any enquiries or suggestions, I'm all ears :sunglasses:  
