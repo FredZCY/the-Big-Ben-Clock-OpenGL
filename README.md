@@ -8,7 +8,7 @@
 
 ***Special thanks*** :pray: for the joint efforts from my fellow
 
-*[Rao Keyi](CST1709315@xmu.edu.my)  
+[Rao Keyi] (CST1709315@xmu.edu.my)  
 
 
 If you got any enquiries or suggestions, I'm all ears :sunglasses:  
