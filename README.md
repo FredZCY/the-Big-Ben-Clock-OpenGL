@@ -4,8 +4,9 @@ This is a Group Project for CST305 09/2019 XMUM coded by CST1709315 RAO KEYI & C
 This program uses OpenGL to draw the BigBen Tower, the surroundings are of the British-street style. Comments are provided with details and explanations.  
 Note that the sky, lights and clock changes as times goes by, and interaction operations are also available.  
 Here are some sample pictures:  
-![image](http://github.com/FredZCY/the-Big-Ben-Clock-OpenGL/raw/master/snapshots/1.PNG)
 
+![image](http://github.com/FredZCY/the-Big-Ben-Clock-OpenGL/raw/master/snapshots/1.PNG)
+![image](http://github.com/FredZCY/the-Big-Ben-Clock-OpenGL/raw/master/snapshots/2.PNG)
 ## Contact the Author  
 
 ***Special thanks*** :pray: for the joint efforts from my fellow Rao Keyi (CST1709315@xmu.edu.my)  
