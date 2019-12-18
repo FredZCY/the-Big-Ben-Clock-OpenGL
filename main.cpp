@@ -1,6 +1,6 @@
-/* Copyright 2019, KAE&FERED, ALL Rights reserved.
+/* Copyright 2019, KAE&FRED, ALL Rights reserved.
 *This is a Group Project for CST305 09/2019 XMUM.
-*Coded by CST1709315 RAO KEYI and CST1709428 ZHANG CHENYU.
+*Coded by CST1709315 RAO KEYI and CST1709482 ZHANG CHENYU.
 *This program is using OpenGL to draw a clock on BigBen.
 *The surroundings are similar to British street style.
 *The program satisfies all the basic requirements,
