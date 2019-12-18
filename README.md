@@ -1,4 +1,4 @@
-# the-Big-Ben-Clock-OpenGL
+# the Big Ben Clock by OpenGL
 Copyright 2019, KAE&FRED, ALL Rights reserved.  
 This is a Group Project for CST305 09/2019 XMUM coded by CST1709315 RAO KEYI & CST1709482 ZHANG CHENYU.  
 This program uses OpenGL to draw the BigBen Tower, the surroundings are of the British-street style. Comments are provided with details and explanations.  
