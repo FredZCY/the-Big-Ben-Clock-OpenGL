@@ -11,7 +11,7 @@ Note that the sky, lights and clock changes as times goes by, and interaction op
 
 If you got any enquiries or suggestions, I'm all ears :sunglasses:  
 
-- **Institution:**  Xiamen University Malaysia  :mortar_board: Junior
+- **Institution:**  Xiamen University Malaysia  :mortar_board: Senior
 - **Personal E-mail:** zhangchenyu555@gmail.com   
 - **Academic E-mail:** CST1709482@xmu.edu.my  
 - **Insterested Area:**
